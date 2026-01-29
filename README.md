@@ -14,3 +14,8 @@ Tools used:
 *Linux Server (VM / Remote server)
 *Windows OS
 *SSH Protocol (Port 22)
+
+Key Features:
+Encrypted communication
+Secure authentication
+Remote command execution
